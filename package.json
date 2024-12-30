@@ -1,0 +1,23 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "This is Test Document ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sehar Abrar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeharKhan707/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SeharKhan707/test/issues"
+  },
+  "homepage": "https://github.com/SeharKhan707/test#readme",
+  "dependencies": {
+    "cypress": "^13.17.0",
+    "d": "^1.0.2"
+  }
+}
